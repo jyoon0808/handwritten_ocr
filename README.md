@@ -1,1 +1,9 @@
 # handwritten_ocr
+
+setting method...
+1.
+2.
+
+instasllation mewthod...
+
+execution method...
